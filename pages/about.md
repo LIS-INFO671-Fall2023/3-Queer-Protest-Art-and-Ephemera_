@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="qfm007" padding="10em" %}
+{% include feature/jumbotron.html objectid="qfm007" padding="8em" %}
 
 
 ## About the Collection

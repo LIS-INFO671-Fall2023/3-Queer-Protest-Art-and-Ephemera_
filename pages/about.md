@@ -7,10 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-  {% include index/description.html %}
     {% include index/carousel.html title="Sample Items" height="300" %}
-    
-{% include feature/jumbotron.html objectid="qfm007" padding="8em" %}
 
 ## About the Collection
 

@@ -5,5 +5,21 @@ layout: default
 <div class="container my-4 about-contents">
 {{ content }}
 </div>
-
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}

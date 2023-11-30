@@ -14,10 +14,5 @@ credits: true
 
 “Read My Lips: Queer Protest Art and Ephemera” is a digital archive collection centered around protest art and ephemera in the context of post-Stonewall LGBTQ+ movements across the United States. This project aims to bring together materials from all over the United States to highlight the rich and multifaceted history of LGBTQ+ activism. The collection has a particular focus on gay and queer liberation movements and AIDS activism through the 1980’s and 1990’s and includes items from the Digital Public Library of America’s collections such as the Gran Fury Collection from NYPL, Safe Harbor/Aids Collection, and ONE National Archives. 
 
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 

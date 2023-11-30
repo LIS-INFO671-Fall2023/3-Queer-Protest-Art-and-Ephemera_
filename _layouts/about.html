@@ -32,7 +32,7 @@ table.center {
     <td></td>
   </tr>
   <tr>
-    <td>filename</td>
+    <td>filename </td>
     <td>The name of the file for each object.</td>
     <td></td>
   </tr>
@@ -40,6 +40,115 @@ table.center {
     <td>title</td>
     <td>A name given to the resource. These include words from the resource itself if available.</td>
     <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>format</td>
+    <td>The file format of each resource.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>description</td>
+    <td>An account of the resource. The descriptions on our site were pulled from the descriptions created by the institutions that created each object.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>creator</td>
+    <td>An entity primarily responsible for making the resource.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>contributors</td>
+    <td>An entity who submitted the resource to an archival institution. A secondary contributor to the CreativeWork or Event.</td>
+    <td>Schema.org</td>
+  </tr>
+    <tr>
+    <td>date</td>
+    <td>A point or period of time associated with an event in the lifecycle of the resource. These are primarily the dates of when the image iteslf was created or when the resources within the image were created.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>date approximate </td>
+    <td>Date or range of dates associated with the creation of the resource</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>title</td>
+    <td>A name given to the resource. These include words from the resource itself if available.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>item_information </td>
+    <td>The material or physical carrier of the resource.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>subject</td>
+    <td>A topic of the resource.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>location</td>
+    <td>City and state of the institution that created the original metadata record for each resource. The location of, for example, where an event is happening, where an organization is located, or where an action takes place.</td>
+    <td>Schema.org</td>
+  </tr>
+    <tr>
+    <td>latitude</td>
+    <td>The latitude of a location. The latitude of the institution that created the original metadata record for each resource.</td>
+    <td>Schema.org</td>
+  </tr>
+    <tr>
+    <td>longitude</td>
+    <td>The longitude of a location. The longitude of the institution that created the original metadata record for each resource.</td>
+    <td>Schema.org</td>
+  </tr>
+    <tr>
+    <td>publisher-digital </td>
+    <td>The name of the institution that digitized and published the resource in an online collection.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>source</td>
+    <td>The name of the institution that digitized the resource or holds the physical object that was digitzed.</td>
+    <td></td>
+  </tr> <tr>
+    <td>finding aid</td>
+    <td>The finding aid for the collection each resource is associated with.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>original-identifier </td>
+    <td>The original unique identifier given to each resource by the institution that digitized its record.</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>identifier</td>
+    <td>The unique identifier name of each resource made of its title and its medium. The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc.</td>
+    <td>Schema.org</td>
+  </tr>
+    <tr>
+    <td>rights</td>
+    <td>A person or organization owning or managing rights over the resource.</td>
+    <td>Dublin Core - Rights Holder</td>
+  </tr>
+    <tr>
+    <td>rightsstatement </td>
+    <td>Information about rights held in and over the resource.</td>
+    <td>Dublin Core - Rights</td>
+  </tr>
+    <tr>
+    <td>type</td>
+    <td>The nature or genre of the resource.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>language</td>
+    <td>A language of the resource.</td>
+    <td>Dublin Core</td>
+  </tr>
+    <tr>
+    <td>relation</td>
+    <td>A link to the webpage of the institution that digitized the record of the resource.</td>
+    <td>r</td>
   </tr>
 </table> 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}

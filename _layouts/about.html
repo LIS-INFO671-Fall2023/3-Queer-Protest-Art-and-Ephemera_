@@ -13,13 +13,18 @@ layout: default
   </tr>
   <tr>
     <td>Objectid</td>
-    <td>filename</td>
-    <td>title</td>
+    <td>A unique identifer for each object. They include qfm and a number starting at 001 and were assigned to objects in the order they were added to the collection.</td>
+    <td></td>
   </tr>
   <tr>
-    <td>A unique identifer for each object. They include qfm and a number starting at 001 and were assigned to objects in the order they were added to the collection.</td>
+    <td>filename</td>
     <td>The name of the file for each object.</td>
     <td>A name given to the resource. These include words from the resource itself if available.</td>
+  </tr>
+   <tr>
+    <td>title</td>
+    <td>A name given to the resource. These include words from the resource itself if available.</td>
+    <td>Dublin Core</td>
   </tr>
 </table> 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}

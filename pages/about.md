@@ -46,7 +46,7 @@ Juhasz, A., & Kerr, T. (2022). _We are having this conversation now: The times o
 
 Lowery, J. (2024). _It was vulgar and it was beautiful: How aids activists used art to fight a pandemic_. Bold Type Books.
 
-Reed, T. V. (2019). ACTing UP against AIDS: The (Very) Graphic Arts in a Moment of Crisis. In T_he art of protest: Culture and activism from the Civil Rights Movement to the present_ (Second edition). University of Minnesota Press.
+Reed, T. V. (2019). ACTing UP against AIDS: The (Very) Graphic Arts in a Moment of Crisis. In _The art of protest: Culture and activism from the Civil Rights Movement to the present_ (Second edition). University of Minnesota Press.
 
 Roth, B. (2017). _The life and death of ACT UP/LA: Anti-AIDS activism in Los Angeles from the 1980s to the 2000s_. Cambridge University Press.
 

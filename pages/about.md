@@ -33,6 +33,7 @@ One artist collective in particular, Gran Fury, comprised of members, Richard El
 This collection draws attention to the diffuse coalitional nature of various direct action anti-AIDS movements and the use of camp and humor in protest which highlights how the political, emotional, and cultural dimensions of protest are linked together. Queer feminist protest ephemera extends beyond AIDS activism to contemporary movements for queer liberation, trans rights, and more.  This collection focuses on cultural production, that is objects such as ephemera, events such as protest, and spaces such as archives, memorials, and museums that occur external to science and government.  
 
 **Sources and Additional Resources:**
+
 Cheng, J.-F., Juhasz, A., & Shahani, N. (Eds.). (2020). _AIDS and the distribution of crises_. Duke University Press.
 
 Cifor, M. (2022). _Viral cultures: Activist archiving in the age of AIDS_. University of Minnesota Press.
